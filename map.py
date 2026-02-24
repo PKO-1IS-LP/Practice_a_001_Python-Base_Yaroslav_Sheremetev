@@ -20,5 +20,5 @@ print(numbers)
 #Задание
 
 float_numbers = [1.5, 2.7, 3.9, 4.2, 5.0]
-a = str(float_numbers.split(","))
+a = list(map(int, float_numbers))
 print(a)
