@@ -24,7 +24,7 @@ print("a".isdigit())
 d = 2
 b = "2"
 
-print(d.isdigit())
+print(str(d).isdigit())
 print(b.isdigit())
 
 print(type(s.isdigit()))
