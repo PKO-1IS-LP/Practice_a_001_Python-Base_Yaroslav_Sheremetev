@@ -14,7 +14,7 @@ print(s[len(s) - 1 - i])    # v
 
 #Задание
 
-f = input("slovo: ")
+f = input("Слово: ")
 a = f[::-1]
 
 if a == f:
