@@ -10,3 +10,9 @@ print(numbers)
 #Вывод:
 
 #[5, 10]
+
+#Задание
+
+fruits = list(["orange", "watermelon", "pineapple", "kebab", "milk"])
+fruits.append("ogurec")
+print(fruits)
