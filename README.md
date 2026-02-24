@@ -1,1 +1,5 @@
-# Practice_a_001_Python-Base_Yaroslav_Sheremetev
+# Получение репозитория
+```
+git clone https://github.com/PKO-1IS-LP/Practice_a_001_Python-Base_Yaroslav_Sheremetev.git
+cd Practice_a_001_Python-Base_Yaroslav_Sheremetev
+```
