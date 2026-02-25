@@ -1,5 +1,4 @@
 
-
 s = int(input("Число:"))
 chislachet = []
 chislanechet = []
